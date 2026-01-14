@@ -4,6 +4,16 @@ This repository contains a small static front-end (originally named `SurgePV`) a
 
 This README explains what is in the repo and how to run the projects locally.
 
+## Quick start (one-liner)
+
+If you want a single command to run the notebook app from this repository after cloning, run:
+
+```bash
+cd MyNotebook/notebook && npm install && npm run dev
+```
+
+This installs dependencies and starts the Vite dev server for the notebook app.
+
 ## What is included
 
 - `index.html` — a small static entry page that was present when the project was renamed to `MyNotebook`.
